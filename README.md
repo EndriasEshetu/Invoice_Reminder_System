@@ -98,6 +98,14 @@ Every day at 8:00 AM →
 
 ---
 
+**Import Instructions**
+1. Go to **Make.com → Scenarios → Create Scenario → Import Blueprint( three dot "..." right bottom)**
+2. Upload the JSON file above.
+3. Reconnect your Google Sheets and Gmail accounts.
+4. Run once to test the setup.
+
+---
+
 ### 🚀 Future Improvements
 
 * Add Slack/Telegram notifications when reminders are sent.
