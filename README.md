@@ -106,7 +106,7 @@ Every day at 8:00 AM →
 
 ---
 
-**Created by:** Endrias Eshetu
-**Automation Name:** *Invoice Reminder System*
-**Platform:** Make.com
-**Status:** ✅ Operational and verified
+* **Created by:** Endrias Eshetu
+* **Automation Name:** *Invoice Reminder System*
+* **Platform:** Make.com
+* **Status:** ✅ Operational and verified
